@@ -5,11 +5,11 @@ https://i.ibb.co/YZG9MRS/turktv.png
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://edge02.smart.az/o8/atv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -17,7 +17,7 @@ http://antalya.tvizlehd.com/live/atvavrupa.m3u8
 
 #EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png",Show TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Show Türk" tvg-name="Show Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xJZR1jT/showturk.png",Show Türk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -25,7 +25,7 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 
 #EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VwWRn5D/star.png",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+https://dogus-live.daioncdn.net:443/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/r4SLvnN/eurostar.png",EuroStar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -33,7 +33,7 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 
 #EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2ttHzC4/kanald.png",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Euro D" tvg-name="Euro D" tvg-language="Turkish" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -50,7 +50,7 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xFm0Q0b/tv8.png",TV8
-http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
+https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8 INT" tvg-name="TV8 INT" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YyjrbR7/tv8int.png",TV8 INT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -62,14 +62,14 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 
 #EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png",Teve2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png",Beyaz TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Y2fyvM7/a2.png",A2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
